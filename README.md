@@ -25,7 +25,3 @@ The assignment implements core image manipulation, transformation, and analysis 
 | 9 | **Grayscale Conversion** | Convert color image to grayscale using `(3R + 6G + 1B) / 10`. |
 | 10 | **Moments** | Compute first- and second-order raw and central moments for `glasses_outline.png`. |
 | 11 | **Orientation & Eccentricity** | Derive object orientation (clockwise degrees), eccentricity, and draw a best-fit red ellipse on the glasses outline. |
-
-### Dependencies
-```bash
-pip install numpy opencv-python matplotlib
